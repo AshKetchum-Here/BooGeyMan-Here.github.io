@@ -92,7 +92,7 @@ header .container nav li a {
   color: rgb(149, 162, 185);
   transition: color 1s ease;
   font-family: hack;
-  padding-top: 1.5em;
+  padding-top: 2.2em;
 }
 header .container nav li a:hover {
   color: yellow;
