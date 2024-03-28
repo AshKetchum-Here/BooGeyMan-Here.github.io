@@ -7,7 +7,7 @@
 }
 @font-face {
   font-family: code;
-  src: url("../font/CODE Light.otf");
+  src: url("../font/ShinyCrystal-Yq3z4.ttf");
 }
 @font-face {
   font-family: yumincho;
@@ -178,7 +178,7 @@ header .container a {
   font-family: hack;
 }
 .about .container p {
-  font-family: code;
+  font-family: Shiny Crystal;
   letter-spacing: 0.2em;
 }
 .about .container a {
