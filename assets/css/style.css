@@ -25,7 +25,7 @@
 }
 
 body {
-  background-color: rgb(0, 0, 80);
+  background-color: rgb(0, 0, 120);
   color: white;
 }
 
@@ -187,7 +187,7 @@ header .container a {
   text-decoration: none;
 }
 .about .container a:hover {
-  color: white;
+  color: yellow;
 }
 
 footer {
