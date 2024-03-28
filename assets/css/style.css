@@ -65,7 +65,7 @@ header .container a {
   color: yellow;
 }
 header .container a h1 {
-  font-family: amsterdam;
+  font-family: Shiny Crystal;
   font-size: 1.2em;
 }
 header .container a img {
@@ -118,7 +118,7 @@ header .container a {
   border-radius: 50%;
   pointer-events: none;
 }
-.hero h1 {
+.hero h2 {
   font-family: yumincho;
   font-size: 35px;
 }
