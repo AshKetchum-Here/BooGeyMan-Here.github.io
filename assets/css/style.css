@@ -118,7 +118,7 @@ header .container a {
   border-radius: 50%;
   pointer-events: none;
 }
-.hero h2 {
+.hero h1 {
   font-family: yumincho;
   font-size: 35px;
 }
