@@ -49,6 +49,7 @@ header .container {
   display: flex;
   flex-wrap: nowrap;
   flex-direction: row;
+  color: yellow;
 }
 header .container ul {
   list-style-type: none;
