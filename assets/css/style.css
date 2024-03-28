@@ -90,11 +90,11 @@ header .container nav li a {
   padding-top: 1.2em;
 }
 header .container nav li a:hover {
-  color: white;
+  color: yellow;
 }
 header .container a {
   text-decoration: none;
-  color: white;
+  color: yellow;
 }
 
 .hero {
