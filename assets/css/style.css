@@ -141,7 +141,7 @@ header .container a {
   margin-right: 0.5em;
 }
 .hero a:hover {
-  color: white;
+  color: yellow;
 }
 .hero a img {
   transition: filter 1s ease;
