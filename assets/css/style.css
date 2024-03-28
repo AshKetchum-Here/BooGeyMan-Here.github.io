@@ -82,6 +82,7 @@ header .container nav li {
   float: left;
   margin-left: 0.5em;
   margin-right: 0.5em;
+  white-space: nowrap;
 }
 header .container nav li a {
   color: rgb(149, 162, 185);
