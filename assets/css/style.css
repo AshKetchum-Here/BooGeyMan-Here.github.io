@@ -66,9 +66,10 @@ header .container a {
   justify-content: center;
   color: yellow;
 }
-header .container a h3 {
+header .container a h4 {
   font-family: Shiny Crystal;
   font-size: 1.2em;
+  padding-top: 1.2em;
 }
 header .container a img {
   filter: brightness(100);
