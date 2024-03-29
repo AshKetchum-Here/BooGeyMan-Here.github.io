@@ -209,6 +209,7 @@ header .container a {
 footer {
   background-color: rgba(240, 248, 255, 0.13);
   text-align: center;
+  height: 10%;
 }
 
 .loader {
