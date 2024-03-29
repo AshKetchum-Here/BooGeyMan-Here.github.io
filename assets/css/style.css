@@ -24,7 +24,7 @@
   scroll-behavior: smooth;
 }
 
-title img {
+.round-button {
   border-radius: 50%;
 }
 
