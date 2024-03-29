@@ -55,7 +55,7 @@ header .container {
   display: flex;
   flex-wrap: nowrap;
   flex-direction: row;
-  color: yellow;
+  color: rgb(149, 162, 186);
 }
 header .container ul {
   list-style-type: none;
@@ -68,7 +68,7 @@ header .container a {
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: center;
-  color: white;
+  color: rgb(149, 162, 186);
 }
 header .container a h4 {
   font-family: Shiny Crystal;
