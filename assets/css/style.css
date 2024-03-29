@@ -76,7 +76,7 @@ header .container a h4 {
   padding-top: 1.5em;
   color: rgb(149, 162, 186);
 }
-header .container a h4:hower {
+header .container a:hower {
   color: yellow;
 }
 header .container a img {
