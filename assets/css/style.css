@@ -68,7 +68,7 @@ header .container a {
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: center;
-  color: yellow;
+  color: white;
 }
 header .container a h4 {
   font-family: Shiny Crystal;
