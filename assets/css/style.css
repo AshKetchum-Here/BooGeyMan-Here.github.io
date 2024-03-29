@@ -81,6 +81,7 @@ header .container a img {
   height: 25px;
   margin-left: 0.3em;
   padding-top: 2em;
+  color: yellow;
 }
 header .container nav {
   flex: 50%;
