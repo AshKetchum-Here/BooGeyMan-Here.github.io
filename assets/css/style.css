@@ -74,6 +74,7 @@ header .container a h4 {
   font-family: Shiny Crystal;
   font-size: 1.2em;
   padding-top: 1.5em;
+  color: rgb(149, 162, 186);
 }
 header .container a img {
   filter: brightness(100);
