@@ -24,6 +24,10 @@
   scroll-behavior: smooth;
 }
 
+title img {
+  border-radius: 50%;
+}
+
 body {
   background-color: rgb(0, 0, 90);
   color: yellow;
